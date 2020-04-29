@@ -1,0 +1,25 @@
+
+*/
+*{
+    margin:10px;
+    padding:10px;
+}
+body {
+    font-family: italic;
+    font-style: italic;
+    font-size: 15px;
+    font-weight: bold;
+  
+}
+p {
+    color: black;
+    height: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    float: left;
+}
+table#1 tr.dif td {
+    background: rgb(8, 243, 20);
+    }
+    table#3linha tr.dif td {
+        background: rgb(8, 243, 20);
+        }
